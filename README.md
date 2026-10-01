@@ -6,7 +6,7 @@ A personalized morning briefing workflow created by Yuval Cohen through a Handsh
 
 ## What it does
 
-Runs at 6 AM America/Los_Angeles and puts actionable student email and calendar items first, followed by UCSB weather, sourced political news, and one daily random number evaluated against 25 pattern badges. The briefing is designed to take under three minutes to read.
+Runs at 6 AM America/Los Angeles and puts actionable student email and calendar items first, followed by UCSB weather, sourced political news, and one daily random number evaluated against 25 pattern badges. The briefing is designed to take under three minutes to read.
 
 ## Repository contents
 
